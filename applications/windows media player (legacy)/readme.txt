@@ -1,0 +1,1 @@
+read the article by microsoft to download the legacy version of wmp, you should also uninstall the newer version of wmp

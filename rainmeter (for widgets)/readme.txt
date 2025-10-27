@@ -1,0 +1,1 @@
+download rainmeter, and then download the vista rainbar skin for the windows 7 widgets
