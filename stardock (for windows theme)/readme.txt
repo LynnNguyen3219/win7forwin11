@@ -1,2 +1,2 @@
 this is a paid app to make your windows have the windows aero theme effect, however you can just use the free trial and use a software to bypass the free trial every 30 days!
-(i have provided the software i use to bypass the free trial, if it doesn't work you can always just find a new one that works)
+(i have provided the batch file i used to bypass the free trial, if it doesn't work you can always just find a new one that works)
